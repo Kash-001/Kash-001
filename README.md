@@ -1,5 +1,6 @@
-**Kash-001 profile**
+** profile de  Kash-001 **
 
---> learning cybersecurity 💻
-
-
+--> Apprentissage de la cybersécurité orienté défensive 💻
+--> Ingénieur réseau en développement
+./aa
+../aa
