@@ -1,6 +1,6 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Azzar</h1>
-<h4 align="center">a freelance developer an also an engineering students at yogyakarta state university</h4>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Kash</h1>
+<h4 align="center">a network engineer studying cyber-security.</h4>
 </div>
 
 <div align="center">
@@ -10,13 +10,13 @@
 </div>
 
 <details>
-  <summary>☎️ contact me</summary>
+  <summary>contacts</summary>
 <div>
   <samp>
-    <h2 align="center">😎 you can reach me by:</h2>
+    <h2 align="center">Join me there : </h2>
     <p align="center">
       <br/>
-      <a href="> krx#0001" target="blank"><img align="center"
+      <a href="https://discord.me/user/99ab8e99860e288f1b6c3728a1137533d74762accda04b44b72b93c4f4423c3c/profile" target="blank"><img align="center"
          src="https://img.shields.io/badge/discord-4267B2.svg?style=for-the-badge&logo=discord&logoColor=whit"
          alt="azzar" height="30"/></a>
       <a href="https://mailto:theotimroy@gmail.com" target="blank"><img align="center"
