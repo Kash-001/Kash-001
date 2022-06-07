@@ -57,7 +57,7 @@
       <br/>
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kash-001&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Kash-001 :: Top Langs" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
