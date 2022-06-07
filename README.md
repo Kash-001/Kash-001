@@ -28,9 +28,9 @@
 </details>
 
 <details>
-  <summary>🧮 about</summary>
+  <summary>about</summary>
 <div>
-<h2 align="center">🧮 About this Account</h2>
+<h2 align="center">About this Account</h2>
  <p align="center">
   <a href="github.com/1999AZZAR" target="blank"><img align="center" 
      src="https://badges.pufler.dev/visits/1999AZZAR/1999AZZAR?style=for-the-badge&color=e74c3c&logo=github&label=Spying+Counter"
