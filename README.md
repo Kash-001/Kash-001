@@ -26,6 +26,6 @@
   
 
   
-### :iphone: contacts >
-> telegram : @kash_005
+### :computer: contacts >
+> telegram : @kash_005  
 > discord : Rapido#1209
