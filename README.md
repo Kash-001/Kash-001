@@ -27,5 +27,5 @@
 
   
 ### :computer: contacts >
-> telegram : @kash_005  
+> telegram : [@kash_005](https://t.me/Kash_005)  
 > discord : Rapido#1209
