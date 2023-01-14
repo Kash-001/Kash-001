@@ -1,5 +1,5 @@
 ### :chains: whoami >
-- python3 amateur developper
+- python3 developper
 - fulltime networking engineer
 - working with [skx](https://github.com/SkxXIVI)
 - i don't like lgbt
