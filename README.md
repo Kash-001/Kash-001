@@ -32,4 +32,4 @@
 
 
 ### :globe_with_meridians: codewars >
-<img src="https://www.codewars.com/users/Kash-001/badges/large" title="codewars" alt="codewars" width="40" height="40"/>&nbsp;
+<img src="https://www.codewars.com/users/Kash-001/badges/large" title="codewars" alt="codewars"/>&nbsp;
