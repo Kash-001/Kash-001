@@ -29,3 +29,7 @@
 ### :computer: contacts >
 > telegram : [@kash_005](https://t.me/Kash_005)  
 > discord : Rapido#1209
+
+
+### :globe_with_meridians: codewars >
+https://www.codewars.com/users/Kash-001/badges/large
