@@ -35,9 +35,8 @@
   
 
   
-### :globe_with_meridians: codewars >
+### :globe_with_meridians: [codewars](https://www.codewars.com/users/Kash-001) >
 <img src="https://www.codewars.com/users/Kash-001/badges/large" title="codewars" alt="codewars"/>&nbsp;
->> [profile](https://www.codewars.com/users/Kash-001)
 
   
 
