@@ -29,7 +29,7 @@
   
 ### :computer: contacts >
 > telegram : [@kash_005](https://t.me/Kash_005)  
-> discord : kardon#1209
+> discord : krx#1209
 
 
   
