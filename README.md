@@ -24,8 +24,8 @@
 
   
 ### :computer: contacts >
-> telegram : [@kash_005](https://t.me/Kash_005)  
-> discord : dead for now
+> telegram : [@karman3](https://t.me/karman3)  
+> discord : la.tv.
 
 
   
