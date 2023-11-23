@@ -25,7 +25,7 @@
   
 ### :computer: contacts >
 > telegram : [@karman3](https://t.me/karman3)  
-> discord : la.tv.
+> discord : gpsxo
 
 
   
