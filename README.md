@@ -24,7 +24,9 @@
 ### :computer: contacts >
 > telegram : [@karman3](https://t.me/troyxr)  
 > discord : still banned
-> read this : https://nohello.net
+
+### READ THIS
+- https://nohello.net
 
   
 
