@@ -24,8 +24,8 @@
 
   
 ### :computer: contacts >
-> telegram : [@karman3](https://t.me/karman3)  
-> discord : gpsxo
+> telegram : [@karman3](https://t.me/troyxr)  
+> discord : still banned
 
 
   
