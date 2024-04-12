@@ -1,7 +1,6 @@
 ### :chains: whoami >
 - Python3 / Networking (backdoor, ransomwares, c2 (learning))
 - working with [skx](https://github.com/SkxXIVI)
-- i don't like lgbt
   
   
 
