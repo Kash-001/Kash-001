@@ -1,7 +1,8 @@
 ### :chains: whoami >
-- Python3 / Networking (backdoor, ransomwares, c2 (learning))
-- working with [skx](https://github.com/SkxXIVI)
-  
+- Python / PHP / Luau
+- Networking (soon engineer)
+- unofficial dev
+    
   
 
 
@@ -21,8 +22,8 @@
 
   
 ### :computer: contacts >
-> telegram : [@karman3](https://t.me/troyxr)  
-> discord : still banned
+> telegram : [@troyxr](https://t.me/troyxr)  
+> discord : cfg0cmljaybszw1hcmnoyw5k
 
 ### READ THIS
 - https://nohello.net
