@@ -24,7 +24,7 @@
   
 ### :computer: contacts >
 > telegram : [@troyxr](https://t.me/troyxr)  
-> discord : cfg0cmljaybszw1hcmnoyw5k
+> discord : ym9vacbsb3nlcibubybvc2ludcbleg
 
 ### READ THIS
 - https://nohello.net
